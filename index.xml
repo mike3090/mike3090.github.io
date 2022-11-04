@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Personal Site of Shengxin Li</title>
     <link>https://mike3090.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Personal Site of Shengxin Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2022 01:28:59 +0800</lastBuildDate><atom:link href="https://mike3090.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Nov 2022 02:56:24 +0800</lastBuildDate><atom:link href="https://mike3090.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My_first_post_with_hugo</title>
-      <link>https://mike3090.github.io/posts/my_first_post_with_hugo/</link>
+      <title>Future Plans of This Site</title>
+      <link>https://mike3090.github.io/2022/11/future-plans-of-this-site/</link>
+      <pubDate>Sat, 05 Nov 2022 02:56:24 +0800</pubDate>
+      
+      <guid>https://mike3090.github.io/2022/11/future-plans-of-this-site/</guid>
+      <description>Now it looks great! But the remaining modification on the original template is still to be done.
+I would upload some of my progress onto this site later.</description>
+    </item>
+    
+    <item>
+      <title>My first post with hugo</title>
+      <link>https://mike3090.github.io/2022/11/my-first-post-with-hugo/</link>
       <pubDate>Sat, 05 Nov 2022 01:28:59 +0800</pubDate>
       
-      <guid>https://mike3090.github.io/posts/my_first_post_with_hugo/</guid>
+      <guid>https://mike3090.github.io/2022/11/my-first-post-with-hugo/</guid>
       <description>Hi! This is my first trial with Hugo. Hope it works fine as expected!</description>
     </item>
     

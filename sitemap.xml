@@ -2,14 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mike3090.github.io/</loc>
-    <lastmod>2022-11-05T01:28:59+08:00</lastmod>
+    <loc>https://mike3090.github.io/2022/11/future-plans-of-this-site/</loc>
+    <lastmod>2022-11-05T02:56:24+08:00</lastmod>
   </url><url>
-    <loc>https://mike3090.github.io/posts/my_first_post_with_hugo/</loc>
-    <lastmod>2022-11-05T01:28:59+08:00</lastmod>
+    <loc>https://mike3090.github.io/</loc>
+    <lastmod>2022-11-05T02:56:24+08:00</lastmod>
   </url><url>
     <loc>https://mike3090.github.io/posts/</loc>
+    <lastmod>2022-11-05T02:56:24+08:00</lastmod>
+  </url><url>
+    <loc>https://mike3090.github.io/2022/11/my-first-post-with-hugo/</loc>
     <lastmod>2022-11-05T01:28:59+08:00</lastmod>
+  </url><url>
+    <loc>https://mike3090.github.io/archives/</loc>
   </url><url>
     <loc>https://mike3090.github.io/categories/</loc>
   </url><url>
