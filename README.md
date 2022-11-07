@@ -18,4 +18,3 @@ Before using [Hugo](https://gohugo.io/), the `html` file writing by my own looks
 </html>
 ```
 
-Last modified: 2022.11.5, 3:00, UTF+8.
