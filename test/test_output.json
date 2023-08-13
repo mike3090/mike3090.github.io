@@ -1,68 +1,66 @@
-{
-    "sentences": [
-        [
-            {
-                "content": "",
-                "size": "normal",
-                "width": "regular"
-            },
-            {
-                "content": "Today's agenda comprises five key areas of dis-cus-sion.",
-                "size": "regular",
-                "width": "regular"
-            }
-        ],
-        [
-            {
-                "content": "\u2195",
-                "size": "normal",
-                "width": "regular"
-            },
-            {
-                "content": "Com-menc-ing the session, I will present a series of ",
-                "size": "regular",
-                "width": "normal"
-            },
-            {
-                "content": "success stories",
-                "size": "bold",
-                "width": "normal"
-            },
-            {
-                "content": " and exemplify the profound impact that ",
-                "size": "regular",
-                "width": "normal"
-            },
-            {
-                "content": "adaptive tech-nol-o-gy for com-put-er-s",
-                "size": "bold",
-                "width": "normal"
-            },
-            {
-                "content": " and ",
-                "size": "regular",
-                "width": "normal"
-            },
-            {
-                "content": "elec-tron-ic re-sources",
-                "size": "bold",
-                "width": "normal"
-            },
-            {
-                "content": " has wielded within the community of in-di-vid-u-als with ",
-                "size": "regular",
-                "width": "normal"
-            },
-            {
-                "content": "dis-abil-i-ties",
-                "size": "bold",
-                "width": "normal"
-            },
-            {
-                "content": ".",
-                "size": "regular",
-                "width": "normal"
-            }
-        ]
+[
+    [
+        {
+            "content": "",
+            "size": "normal",
+            "width": "regular"
+        },
+        {
+            "content": "Today's agenda comprises five key areas of dis-cus-sion.",
+            "size": "regular",
+            "width": "regular"
+        }
+    ],
+    [
+        {
+            "content": "\u2195",
+            "size": "normal",
+            "width": "regular"
+        },
+        {
+            "content": "Com-menc-ing the session, I will present a series of ",
+            "size": "regular",
+            "width": "normal"
+        },
+        {
+            "content": "success stories",
+            "size": "bold",
+            "width": "normal"
+        },
+        {
+            "content": " and exemplify the profound impact that ",
+            "size": "regular",
+            "width": "normal"
+        },
+        {
+            "content": "adaptive tech-nol-o-gy for com-put-er-s",
+            "size": "bold",
+            "width": "normal"
+        },
+        {
+            "content": " and ",
+            "size": "regular",
+            "width": "normal"
+        },
+        {
+            "content": "elec-tron-ic re-sources",
+            "size": "bold",
+            "width": "normal"
+        },
+        {
+            "content": " has wielded within the community of in-di-vid-u-als with ",
+            "size": "regular",
+            "width": "normal"
+        },
+        {
+            "content": "dis-abil-i-ties",
+            "size": "bold",
+            "width": "normal"
+        },
+        {
+            "content": ".",
+            "size": "regular",
+            "width": "normal"
+        }
     ]
-}
+]
