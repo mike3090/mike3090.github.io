@@ -66,5 +66,205 @@
                 "width": "regular"
             }
         ]
+    },
+    {
+        "sentence": [
+            {
+                "content": "\ud83d\udd09",
+                "size": "regular",
+                "width": "condensed"
+            },
+            {
+                "content": "Sub-se-quent-ly, we shall delve into a com-pre-hen-sive ex-plo-ration of the principal ",
+                "size": "regular",
+                "width": "condensed"
+            },
+            {
+                "content": "leg-isla-tive mandates",
+                "size": "bold",
+                "width": "condensed"
+            },
+            {
+                "content": " per-tain-ing to this subject matter, sup-ple-ment-ed by an ex-am-i-na-tion of pertinent ",
+                "size": "regular",
+                "width": "condensed"
+            },
+            {
+                "content": "s-ta-tis-ti-cal data",
+                "size": "bold",
+                "width": "condensed"
+            },
+            {
+                "content": " con-cern-ing in-di-vid-u-als with ",
+                "size": "regular",
+                "width": "condensed"
+            },
+            {
+                "content": "dis-abil-i-ties",
+                "size": "bold",
+                "width": "condensed"
+            },
+            {
+                "content": ".",
+                "size": "regular",
+                "width": "condensed"
+            }
+        ]
+    },
+    {
+        "sentence": [
+            {
+                "content": "\ud83d\udd09",
+                "size": "regular",
+                "width": "extended"
+            },
+            {
+                "content": "Con-tin-u-ing, we will broaden our per-spec-tive to encompass the over-ar-ch-ing landscape of ",
+                "size": "regular",
+                "width": "extended"
+            },
+            {
+                "content": "access to li-braries",
+                "size": "bold",
+                "width": "extended"
+            },
+            {
+                "content": " and ",
+                "size": "regular",
+                "width": "extended"
+            },
+            {
+                "content": "library services",
+                "size": "bold",
+                "width": "extended"
+            },
+            {
+                "content": " tailored to cater to the needs of in-di-vid-u-als with ",
+                "size": "regular",
+                "width": "extended"
+            },
+            {
+                "content": "dis-abil-i-ties",
+                "size": "bold",
+                "width": "extended"
+            },
+            {
+                "content": ".",
+                "size": "regular",
+                "width": "extended"
+            }
+        ]
+    },
+    {
+        "sentence": [
+            {
+                "content": "\u2195",
+                "size": "regular",
+                "width": "regular"
+            },
+            {
+                "content": "With this foun-da-tion-al un-der-stand-ing, a visual pre-sen-ta-tion in the form of a ",
+                "size": "regular",
+                "width": "regular"
+            },
+            {
+                "content": "video-tape",
+                "size": "bold",
+                "width": "regular"
+            },
+            {
+                "content": " will serve to elucidate and stimulate discourse on the subject of ",
+                "size": "regular",
+                "width": "regular"
+            },
+            {
+                "content": "adaptive tech-nol-o-gy for com-put-er-s",
+                "size": "bold",
+                "width": "regular"
+            },
+            {
+                "content": ", thereby directing our attention to the realm of ",
+                "size": "regular",
+                "width": "regular"
+            },
+            {
+                "content": "elec-tron-ic re-sources",
+                "size": "bold",
+                "width": "regular"
+            },
+            {
+                "content": " within the library context.",
+                "size": "regular",
+                "width": "regular"
+            }
+        ]
+    },
+    {
+        "sentence": [
+            {
+                "content": "",
+                "size": "regular",
+                "width": "regular"
+            },
+            {
+                "content": "Con-clud-ing our program, we will tran-si-tion to the final segment, which entails another ",
+                "size": "regular",
+                "width": "regular"
+            },
+            {
+                "content": "video-tape pre-sen-ta-tion",
+                "size": "bold",
+                "width": "regular"
+            },
+            {
+                "content": " followed by an in-ter-ac-tive dis-cus-sion.",
+                "size": "regular",
+                "width": "regular"
+            }
+        ]
+    },
+    {
+        "sentence": [
+            {
+                "content": "",
+                "size": "regular",
+                "width": "regular"
+            },
+            {
+                "content": "This phase will be dedicated to ex-pound-ing upon the concept of ",
+                "size": "regular",
+                "width": "regular"
+            },
+            {
+                "content": "u-ni-ver-sal design",
+                "size": "bold",
+                "width": "regular"
+            },
+            {
+                "content": " as applied to ",
+                "size": "regular",
+                "width": "regular"
+            },
+            {
+                "content": "elec-tron-ic re-sources",
+                "size": "bold",
+                "width": "regular"
+            },
+            {
+                "content": ", par-tic-u-lar-ly its relevance in the evolution of ",
+                "size": "regular",
+                "width": "regular"
+            },
+            {
+                "content": "World Wide Web pages",
+                "size": "bold",
+                "width": "regular"
+            },
+            {
+                "content": ".",
+                "size": "regular",
+                "width": "regular"
+            }
+        ]
     }
 ]
