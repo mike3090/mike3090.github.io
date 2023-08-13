@@ -3,7 +3,7 @@
         "sentence": [
             {
                 "content": "",
-                "size": "normal",
+                "size": "regular",
                 "width": "regular"
             },
             {
@@ -17,53 +17,53 @@
         "sentence": [
             {
                 "content": "\u2195",
-                "size": "normal",
+                "size": "regular",
                 "width": "regular"
             },
             {
                 "content": "Com-menc-ing the session, I will present a series of ",
                 "size": "regular",
-                "width": "normal"
+                "width": "regular"
             },
             {
                 "content": "success stories",
                 "size": "bold",
-                "width": "normal"
+                "width": "regular"
             },
             {
                 "content": " and exemplify the profound impact that ",
                 "size": "regular",
-                "width": "normal"
+                "width": "regular"
             },
             {
                 "content": "adaptive tech-nol-o-gy for com-put-er-s",
                 "size": "bold",
-                "width": "normal"
+                "width": "regular"
             },
             {
                 "content": " and ",
                 "size": "regular",
-                "width": "normal"
+                "width": "regular"
             },
             {
                 "content": "elec-tron-ic re-sources",
                 "size": "bold",
-                "width": "normal"
+                "width": "regular"
             },
             {
                 "content": " has wielded within the community of in-di-vid-u-als with ",
                 "size": "regular",
-                "width": "normal"
+                "width": "regular"
             },
             {
                 "content": "dis-abil-i-ties",
                 "size": "bold",
-                "width": "normal"
+                "width": "regular"
             },
             {
                 "content": ".",
                 "size": "regular",
-                "width": "normal"
+                "width": "regular"
             }
         ]
     }
