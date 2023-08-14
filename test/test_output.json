@@ -116,42 +116,42 @@
             {
                 "content": "\ud83d\udd09",
                 "size": "emoji",
-                "width": "regular"
+                "width": "condensed"
             },
             {
                 "content": "Con-tin-u-ing, we will broaden our per-spec-tive to encompass the over-ar-ch-ing landscape of ",
                 "size": "regular",
-                "width": "regular"
+                "width": "condensed"
             },
             {
                 "content": "access to li-braries",
                 "size": "bold",
-                "width": "regular"
+                "width": "condensed"
             },
             {
                 "content": " and ",
                 "size": "regular",
-                "width": "regular"
+                "width": "condensed"
             },
             {
                 "content": "library services",
                 "size": "bold",
-                "width": "regular"
+                "width": "condensed"
             },
             {
                 "content": " tailored to cater to the needs of in-di-vid-u-als with ",
                 "size": "regular",
-                "width": "regular"
+                "width": "condensed"
             },
             {
                 "content": "dis-abil-i-ties",
                 "size": "bold",
-                "width": "regular"
+                "width": "condensed"
             },
             {
                 "content": ".",
                 "size": "regular",
-                "width": "regular"
+                "width": "condensed"
             }
         ]
     },
@@ -204,22 +204,22 @@
             {
                 "content": "",
                 "size": "emoji",
-                "width": "regular"
+                "width": "extended"
             },
             {
                 "content": "Con-clud-ing our program, we will tran-si-tion to the final segment, which entails another ",
                 "size": "regular",
-                "width": "regular"
+                "width": "extended"
             },
             {
                 "content": "video-tape pre-sen-ta-tion",
                 "size": "bold",
-                "width": "regular"
+                "width": "extended"
             },
             {
                 "content": " followed by an in-ter-ac-tive dis-cus-sion.",
                 "size": "regular",
-                "width": "regular"
+                "width": "extended"
             }
         ]
     },
