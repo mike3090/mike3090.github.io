@@ -3,7 +3,7 @@
         "sentence": [
             {
                 "content": "",
-                "size": "regular",
+                "size": "emoji",
                 "width": "regular"
             },
             {
@@ -17,7 +17,7 @@
         "sentence": [
             {
                 "content": "\u2195",
-                "size": "regular",
+                "size": "emoji",
                 "width": "regular"
             },
             {
@@ -71,43 +71,43 @@
         "sentence": [
             {
                 "content": "\ud83d\udd09",
-                "size": "regular",
-                "width": "condensed"
+                "size": "emoji",
+                "width": "regular"
             },
             {
                 "content": "Sub-se-quent-ly, we shall delve into a com-pre-hen-sive ex-plo-ration of the principal ",
                 "size": "regular",
-                "width": "condensed"
+                "width": "regular"
             },
             {
                 "content": "leg-isla-tive mandates",
                 "size": "bold",
-                "width": "condensed"
+                "width": "regular"
             },
             {
                 "content": " per-tain-ing to this subject matter, sup-ple-ment-ed by an ex-am-i-na-tion of pertinent ",
                 "size": "regular",
-                "width": "condensed"
+                "width": "regular"
             },
             {
                 "content": "s-ta-tis-ti-cal data",
                 "size": "bold",
-                "width": "condensed"
+                "width": "regular"
             },
             {
                 "content": " con-cern-ing in-di-vid-u-als with ",
                 "size": "regular",
-                "width": "condensed"
+                "width": "regular"
             },
             {
                 "content": "dis-abil-i-ties",
                 "size": "bold",
-                "width": "condensed"
+                "width": "regular"
             },
             {
                 "content": ".",
                 "size": "regular",
-                "width": "condensed"
+                "width": "regular"
             }
         ]
     },
@@ -115,43 +115,43 @@
         "sentence": [
             {
                 "content": "\ud83d\udd09",
-                "size": "regular",
-                "width": "extended"
+                "size": "emoji",
+                "width": "regular"
             },
             {
                 "content": "Con-tin-u-ing, we will broaden our per-spec-tive to encompass the over-ar-ch-ing landscape of ",
                 "size": "regular",
-                "width": "extended"
+                "width": "regular"
             },
             {
                 "content": "access to li-braries",
                 "size": "bold",
-                "width": "extended"
+                "width": "regular"
             },
             {
                 "content": " and ",
                 "size": "regular",
-                "width": "extended"
+                "width": "regular"
             },
             {
                 "content": "library services",
                 "size": "bold",
-                "width": "extended"
+                "width": "regular"
             },
             {
                 "content": " tailored to cater to the needs of in-di-vid-u-als with ",
                 "size": "regular",
-                "width": "extended"
+                "width": "regular"
             },
             {
                 "content": "dis-abil-i-ties",
                 "size": "bold",
-                "width": "extended"
+                "width": "regular"
             },
             {
                 "content": ".",
                 "size": "regular",
-                "width": "extended"
+                "width": "regular"
             }
         ]
     },
@@ -159,7 +159,7 @@
         "sentence": [
             {
                 "content": "\u2195",
-                "size": "regular",
+                "size": "emoji",
                 "width": "regular"
             },
             {
@@ -203,7 +203,7 @@
         "sentence": [
             {
                 "content": "",
-                "size": "regular",
+                "size": "emoji",
                 "width": "regular"
             },
             {
@@ -227,7 +227,7 @@
         "sentence": [
             {
                 "content": "",
-                "size": "regular",
+                "size": "emoji",
                 "width": "regular"
             },
             {
