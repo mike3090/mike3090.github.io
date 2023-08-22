@@ -1,0 +1,212 @@
+{
+    "finalScript": [
+        {
+            "page_index": 0,
+            "page_start": 0,
+            "page_end": 122,
+            "sentences": [
+                {
+                    "sentence": [
+                        {
+                            "content": "\ud83d\udd09",
+                            "size": "emoji"
+                        },
+                        {
+                            "content": "Today's ",
+                            "size": "regular"
+                        },
+                        {
+                            "content": "program",
+                            "size": "bold"
+                        },
+                        {
+                            "content": " is set to cover five notable ",
+                            "size": "regular"
+                        },
+                        {
+                            "content": "topics",
+                            "size": "bold"
+                        },
+                        {
+                            "content": ".",
+                            "size": "regular"
+                        }
+                    ],
+                    "sentence_start": 0,
+                    "sentence_end": 20
+                },
+                {
+                    "sentence": [
+                        {
+                            "content": "\ud83d\udd09",
+                            "size": "emoji"
+                        },
+                        {
+                            "content": "To kick things off, I'll delve into the triumphs and ",
+                            "size": "regular"
+                        },
+                        {
+                            "content": "success stories",
+                            "size": "bold"
+                        },
+                        {
+                            "content": " of ",
+                            "size": "regular"
+                        },
+                        {
+                            "content": "adaptive technology",
+                            "size": "bold"
+                        },
+                        {
+                            "content": " for computers and electronic resources benefitting people grappling with ",
+                            "size": "regular"
+                        },
+                        {
+                            "content": "disabilities",
+                            "size": "bold"
+                        },
+                        {
+                            "content": ".",
+                            "size": "regular"
+                        }
+                    ],
+                    "sentence_start": 20,
+                    "sentence_end": 67
+                },
+                {
+                    "sentence": [
+                        {
+                            "content": "\ud83d\udeeb\ud83d\udd09",
+                            "size": "emoji"
+                        },
+                        {
+                            "content": "We will then pivot to dissect the foremost ",
+                            "size": "regular"
+                        },
+                        {
+                            "content": "legislative directives",
+                            "size": "bold"
+                        },
+                        {
+                            "content": " pertaining to this issue, punctuated by a glimpse at some ",
+                            "size": "regular"
+                        },
+                        {
+                            "content": "statistics",
+                            "size": "bold"
+                        },
+                        {
+                            "content": " about the demographic in question, those with disabilities.",
+                            "size": "regular"
+                        }
+                    ],
+                    "sentence_start": 67,
+                    "sentence_end": 122
+                }
+            ]
+        },
+        {
+            "page_index": 1,
+            "page_start": 126,
+            "page_end": 300,
+            "sentences": [
+                {
+                    "sentence": [
+                        {
+                            "content": "\u2197",
+                            "size": "emoji"
+                        },
+                        {
+                            "content": "Pursuing this further, we'll broaden our perspective to the grand view - addressing ",
+                            "size": "regular"
+                        },
+                        {
+                            "content": "accessbility",
+                            "size": "bold"
+                        },
+                        {
+                            "content": " to libraries and library services for people with disabilities.",
+                            "size": "regular"
+                        }
+                    ],
+                    "sentence_start": 126,
+                    "sentence_end": 173
+                },
+                {
+                    "sentence": [
+                        {
+                            "content": "",
+                            "size": "emoji"
+                        },
+                        {
+                            "content": "Capturing this context, a videotaped exploration on ",
+                            "size": "regular"
+                        },
+                        {
+                            "content": "adaptive technology",
+                            "size": "bold"
+                        },
+                        {
+                            "content": " for computers will steer our discussion towards electronic resources in libraries.",
+                            "size": "regular"
+                        }
+                    ],
+                    "sentence_start": 173,
+                    "sentence_end": 216
+                },
+                {
+                    "sentence": [
+                        {
+                            "content": "\ud83d\udd09",
+                            "size": "emoji"
+                        },
+                        {
+                            "content": "As we head towards the conclusion of our program, the latter segment will encompass the secondary ",
+                            "size": "regular"
+                        },
+                        {
+                            "content": "videotape presentation",
+                            "size": "bold"
+                        },
+                        {
+                            "content": ".",
+                            "size": "regular"
+                        }
+                    ],
+                    "sentence_start": 216,
+                    "sentence_end": 249
+                },
+                {
+                    "sentence": [
+                        {
+                            "content": "\ud83d\udd09",
+                            "size": "emoji"
+                        },
+                        {
+                            "content": "Here, we'll engage in a spirited discourse on the ",
+                            "size": "regular"
+                        },
+                        {
+                            "content": "universal design",
+                            "size": "bold"
+                        },
+                        {
+                            "content": " of electronic resources, more specifically as applied in the ",
+                            "size": "regular"
+                        },
+                        {
+                            "content": "development of World Wide Web pages",
+                            "size": "bold"
+                        },
+                        {
+                            "content": ".",
+                            "size": "regular"
+                        }
+                    ],
+                    "sentence_start": 249,
+                    "sentence_end": 300
+                }
+            ]
+        }
+    ]
+}
