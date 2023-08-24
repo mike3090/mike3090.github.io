@@ -42,7 +42,21 @@
                             "size": "emoji"
                         },
                         {
-                            "content": "To kick things off, I'll delve into the triumphs and ",
+                            "content": "To kick things off,",
+                            "size": "regular"
+                        }
+                    ],
+                    "sentence_start": 20,
+                    "sentence_end": 26
+                },
+                {
+                    "sentence": [
+                        {
+                            "content": "\ud83d\udd09",
+                            "size": "emoji"
+                        },
+                        {
+                            "content": "I'll delve into the triumphs and ",
                             "size": "regular"
                         },
                         {
@@ -70,7 +84,7 @@
                             "size": "regular"
                         }
                     ],
-                    "sentence_start": 20,
+                    "sentence_start": 26,
                     "sentence_end": 67
                 },
                 {
@@ -88,7 +102,21 @@
                             "size": "bold"
                         },
                         {
-                            "content": " pertaining to this issue, punctuated by a glimpse at some ",
+                            "content": " pertaining to this issue,",
+                            "size": "regular"
+                        }
+                    ],
+                    "sentence_start": 67,
+                    "sentence_end": 92
+                },
+                {
+                    "sentence": [
+                        {
+                            "content": "\ud83d\udeeb\ud83d\udd09",
+                            "size": "emoji"
+                        },
+                        {
+                            "content": "punctuated by a glimpse at some ",
                             "size": "regular"
                         },
                         {
@@ -96,11 +124,25 @@
                             "size": "bold"
                         },
                         {
-                            "content": " about the demographic in question, those with disabilities.",
+                            "content": " about the demographic in question,",
                             "size": "regular"
                         }
                     ],
-                    "sentence_start": 67,
+                    "sentence_start": 92,
+                    "sentence_end": 113
+                },
+                {
+                    "sentence": [
+                        {
+                            "content": "\ud83d\udeeb\ud83d\udd09",
+                            "size": "emoji"
+                        },
+                        {
+                            "content": "those with disabilities.",
+                            "size": "regular"
+                        }
+                    ],
+                    "sentence_start": 113,
                     "sentence_end": 122
                 }
             ]
@@ -117,7 +159,21 @@
                             "size": "emoji"
                         },
                         {
-                            "content": "Pursuing this further, we'll broaden our perspective to the grand view - addressing ",
+                            "content": "Pursuing this further,",
+                            "size": "regular"
+                        }
+                    ],
+                    "sentence_start": 126,
+                    "sentence_end": 136
+                },
+                {
+                    "sentence": [
+                        {
+                            "content": "\u2197",
+                            "size": "emoji"
+                        },
+                        {
+                            "content": "we'll broaden our perspective to the grand view - addressing ",
                             "size": "regular"
                         },
                         {
@@ -129,7 +185,7 @@
                             "size": "regular"
                         }
                     ],
-                    "sentence_start": 126,
+                    "sentence_start": 136,
                     "sentence_end": 173
                 },
                 {
@@ -139,7 +195,21 @@
                             "size": "emoji"
                         },
                         {
-                            "content": "Capturing this context, a videotaped exploration on ",
+                            "content": "Capturing this context,",
+                            "size": "regular"
+                        }
+                    ],
+                    "sentence_start": 173,
+                    "sentence_end": 180
+                },
+                {
+                    "sentence": [
+                        {
+                            "content": "",
+                            "size": "emoji"
+                        },
+                        {
+                            "content": "a videotaped exploration on ",
                             "size": "regular"
                         },
                         {
@@ -151,7 +221,7 @@
                             "size": "regular"
                         }
                     ],
-                    "sentence_start": 173,
+                    "sentence_start": 180,
                     "sentence_end": 216
                 },
                 {
@@ -161,7 +231,21 @@
                             "size": "emoji"
                         },
                         {
-                            "content": "As we head towards the conclusion of our program, the latter segment will encompass the secondary ",
+                            "content": "As we head towards the conclusion of our program,",
+                            "size": "regular"
+                        }
+                    ],
+                    "sentence_start": 216,
+                    "sentence_end": 229
+                },
+                {
+                    "sentence": [
+                        {
+                            "content": "\ud83d\udd09",
+                            "size": "emoji"
+                        },
+                        {
+                            "content": "the latter segment will encompass the secondary ",
                             "size": "regular"
                         },
                         {
@@ -173,7 +257,7 @@
                             "size": "regular"
                         }
                     ],
-                    "sentence_start": 216,
+                    "sentence_start": 229,
                     "sentence_end": 249
                 },
                 {
@@ -183,7 +267,21 @@
                             "size": "emoji"
                         },
                         {
-                            "content": "Here, we'll engage in a spirited discourse on the ",
+                            "content": "Here,",
+                            "size": "regular"
+                        }
+                    ],
+                    "sentence_start": 249,
+                    "sentence_end": 253
+                },
+                {
+                    "sentence": [
+                        {
+                            "content": "\ud83d\udd09",
+                            "size": "emoji"
+                        },
+                        {
+                            "content": "we'll engage in a spirited discourse on the ",
                             "size": "regular"
                         },
                         {
@@ -191,7 +289,21 @@
                             "size": "bold"
                         },
                         {
-                            "content": " of electronic resources, more specifically as applied in the ",
+                            "content": " of electronic resources,",
+                            "size": "regular"
+                        }
+                    ],
+                    "sentence_start": 253,
+                    "sentence_end": 279
+                },
+                {
+                    "sentence": [
+                        {
+                            "content": "\ud83d\udd09",
+                            "size": "emoji"
+                        },
+                        {
+                            "content": "more specifically as applied in the ",
                             "size": "regular"
                         },
                         {
@@ -203,7 +315,7 @@
                             "size": "regular"
                         }
                     ],
-                    "sentence_start": 249,
+                    "sentence_start": 279,
                     "sentence_end": 300
                 }
             ]
