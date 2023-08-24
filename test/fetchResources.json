@@ -3,7 +3,7 @@
         {
             "page_index": 0,
             "page_start": 0,
-            "page_end": 122,
+            "page_end": 24,
             "sentences": [
                 {
                     "sentence": [
@@ -33,7 +33,7 @@
                         }
                     ],
                     "sentence_start": 0,
-                    "sentence_end": 20
+                    "sentence_end": 4
                 },
                 {
                     "sentence": [
@@ -46,8 +46,8 @@
                             "size": "regular"
                         }
                     ],
-                    "sentence_start": 20,
-                    "sentence_end": 26
+                    "sentence_start": 4,
+                    "sentence_end": 5
                 },
                 {
                     "sentence": [
@@ -84,8 +84,8 @@
                             "size": "regular"
                         }
                     ],
-                    "sentence_start": 26,
-                    "sentence_end": 67
+                    "sentence_start": 5,
+                    "sentence_end": 13
                 },
                 {
                     "sentence": [
@@ -106,8 +106,8 @@
                             "size": "regular"
                         }
                     ],
-                    "sentence_start": 67,
-                    "sentence_end": 92
+                    "sentence_start": 13,
+                    "sentence_end": 18
                 },
                 {
                     "sentence": [
@@ -128,8 +128,8 @@
                             "size": "regular"
                         }
                     ],
-                    "sentence_start": 92,
-                    "sentence_end": 113
+                    "sentence_start": 18,
+                    "sentence_end": 23
                 },
                 {
                     "sentence": [
@@ -142,15 +142,15 @@
                             "size": "regular"
                         }
                     ],
-                    "sentence_start": 113,
-                    "sentence_end": 122
+                    "sentence_start": 23,
+                    "sentence_end": 24
                 }
             ]
         },
         {
             "page_index": 1,
-            "page_start": 126,
-            "page_end": 300,
+            "page_start": 25,
+            "page_end": 60,
             "sentences": [
                 {
                     "sentence": [
@@ -163,8 +163,8 @@
                             "size": "regular"
                         }
                     ],
-                    "sentence_start": 126,
-                    "sentence_end": 136
+                    "sentence_start": 25,
+                    "sentence_end": 27
                 },
                 {
                     "sentence": [
@@ -185,8 +185,8 @@
                             "size": "regular"
                         }
                     ],
-                    "sentence_start": 136,
-                    "sentence_end": 173
+                    "sentence_start": 27,
+                    "sentence_end": 35
                 },
                 {
                     "sentence": [
@@ -199,8 +199,8 @@
                             "size": "regular"
                         }
                     ],
-                    "sentence_start": 173,
-                    "sentence_end": 180
+                    "sentence_start": 35,
+                    "sentence_end": 36
                 },
                 {
                     "sentence": [
@@ -221,8 +221,8 @@
                             "size": "regular"
                         }
                     ],
-                    "sentence_start": 180,
-                    "sentence_end": 216
+                    "sentence_start": 36,
+                    "sentence_end": 43
                 },
                 {
                     "sentence": [
@@ -235,8 +235,8 @@
                             "size": "regular"
                         }
                     ],
-                    "sentence_start": 216,
-                    "sentence_end": 229
+                    "sentence_start": 43,
+                    "sentence_end": 46
                 },
                 {
                     "sentence": [
@@ -257,8 +257,8 @@
                             "size": "regular"
                         }
                     ],
-                    "sentence_start": 229,
-                    "sentence_end": 249
+                    "sentence_start": 46,
+                    "sentence_end": 50
                 },
                 {
                     "sentence": [
@@ -271,8 +271,8 @@
                             "size": "regular"
                         }
                     ],
-                    "sentence_start": 249,
-                    "sentence_end": 253
+                    "sentence_start": 50,
+                    "sentence_end": 51
                 },
                 {
                     "sentence": [
@@ -293,8 +293,8 @@
                             "size": "regular"
                         }
                     ],
-                    "sentence_start": 253,
-                    "sentence_end": 279
+                    "sentence_start": 51,
+                    "sentence_end": 56
                 },
                 {
                     "sentence": [
@@ -315,8 +315,8 @@
                             "size": "regular"
                         }
                     ],
-                    "sentence_start": 279,
-                    "sentence_end": 300
+                    "sentence_start": 56,
+                    "sentence_end": 60
                 }
             ]
         }
