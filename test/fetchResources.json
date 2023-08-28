@@ -1,18 +1,32 @@
 {
     "transcribedScript": [
         {
+            "page_end": 78,
             "page_index": 0,
             "page_start": 0,
-            "page_end": 24,
             "sentences": [
                 {
                     "sentence": [
                         {
-                            "content": "\ud83d\udd09",
+                            "content": "🚊",
                             "size": "emoji"
                         },
                         {
-                            "content": "Today's ",
+                            "content": "Today,",
+                            "size": "regular"
+                        }
+                    ],
+                    "sentence_end": 8,
+                    "sentence_start": 0
+                },
+                {
+                    "sentence": [
+                        {
+                            "content": "🚊",
+                            "size": "emoji"
+                        },
+                        {
+                            "content": "our ",
                             "size": "regular"
                         },
                         {
@@ -20,7 +34,15 @@
                             "size": "bold"
                         },
                         {
-                            "content": " is set to cover five notable ",
+                            "content": " will encompass these ",
+                            "size": "regular"
+                        },
+                        {
+                            "content": "five",
+                            "size": "bold"
+                        },
+                        {
+                            "content": " pivotal ",
                             "size": "regular"
                         },
                         {
@@ -32,31 +54,31 @@
                             "size": "regular"
                         }
                     ],
-                    "sentence_start": 0,
-                    "sentence_end": 4
+                    "sentence_end": 24,
+                    "sentence_start": 8
                 },
                 {
                     "sentence": [
                         {
-                            "content": "\ud83d\udd09",
+                            "content": "",
                             "size": "emoji"
                         },
                         {
-                            "content": "To kick things off,",
+                            "content": "To kick off,",
                             "size": "regular"
                         }
                     ],
-                    "sentence_start": 4,
-                    "sentence_end": 5
+                    "sentence_end": 29,
+                    "sentence_start": 24
                 },
                 {
                     "sentence": [
                         {
-                            "content": "\ud83d\udd09",
+                            "content": "",
                             "size": "emoji"
                         },
                         {
-                            "content": "I'll delve into the triumphs and ",
+                            "content": "I will be sharing some inspiring ",
                             "size": "regular"
                         },
                         {
@@ -64,19 +86,19 @@
                             "size": "bold"
                         },
                         {
-                            "content": " of ",
+                            "content": " and impactful examples of how ",
                             "size": "regular"
                         },
                         {
-                            "content": "adaptive technology",
+                            "content": "adaptive tech-nol-o-gy",
                             "size": "bold"
                         },
                         {
-                            "content": " for computers and electronic resources benefitting people grappling with ",
+                            "content": " for computers and elec-tron-ic resources has trans-formed lives for people with ",
                             "size": "regular"
                         },
                         {
-                            "content": "disabilities",
+                            "content": "dis-abil-i-ties",
                             "size": "bold"
                         },
                         {
@@ -84,109 +106,109 @@
                             "size": "regular"
                         }
                     ],
-                    "sentence_start": 5,
-                    "sentence_end": 13
-                },
-                {
-                    "sentence": [
-                        {
-                            "content": "\ud83d\udeeb\ud83d\udd09",
-                            "size": "emoji"
-                        },
-                        {
-                            "content": "We will then pivot to dissect the foremost ",
-                            "size": "regular"
-                        },
-                        {
-                            "content": "legislative directives",
-                            "size": "bold"
-                        },
-                        {
-                            "content": " pertaining to this issue,",
-                            "size": "regular"
-                        }
-                    ],
-                    "sentence_start": 13,
-                    "sentence_end": 18
-                },
-                {
-                    "sentence": [
-                        {
-                            "content": "\ud83d\udeeb\ud83d\udd09",
-                            "size": "emoji"
-                        },
-                        {
-                            "content": "punctuated by a glimpse at some ",
-                            "size": "regular"
-                        },
-                        {
-                            "content": "statistics",
-                            "size": "bold"
-                        },
-                        {
-                            "content": " about the demographic in question,",
-                            "size": "regular"
-                        }
-                    ],
-                    "sentence_start": 18,
-                    "sentence_end": 23
-                },
-                {
-                    "sentence": [
-                        {
-                            "content": "\ud83d\udeeb\ud83d\udd09",
-                            "size": "emoji"
-                        },
-                        {
-                            "content": "those with disabilities.",
-                            "size": "regular"
-                        }
-                    ],
-                    "sentence_start": 23,
-                    "sentence_end": 24
+                    "sentence_end": 78,
+                    "sentence_start": 29
                 }
             ]
         },
         {
+            "page_end": 229,
             "page_index": 1,
-            "page_start": 25,
-            "page_end": 60,
+            "page_start": 82,
             "sentences": [
                 {
                     "sentence": [
                         {
-                            "content": "\u2197",
+                            "content": "🚊",
                             "size": "emoji"
                         },
                         {
-                            "content": "Pursuing this further,",
+                            "content": "Following that,",
                             "size": "regular"
                         }
                     ],
-                    "sentence_start": 25,
-                    "sentence_end": 27
+                    "sentence_end": 91,
+                    "sentence_start": 82
                 },
                 {
                     "sentence": [
                         {
-                            "content": "\u2197",
+                            "content": "🚊",
                             "size": "emoji"
                         },
                         {
-                            "content": "we'll broaden our perspective to the grand view - addressing ",
+                            "content": "we will delve into the most crucial ",
                             "size": "regular"
                         },
                         {
-                            "content": "accessbility",
+                            "content": "leg-isla-tive di-rec-tives",
                             "size": "bold"
                         },
                         {
-                            "content": " to libraries and library services for people with disabilities.",
+                            "content": " con-cern-ing the issue,",
                             "size": "regular"
                         }
                     ],
-                    "sentence_start": 27,
-                    "sentence_end": 35
+                    "sentence_end": 114,
+                    "sentence_start": 91
+                },
+                {
+                    "sentence": [
+                        {
+                            "content": "🚊",
+                            "size": "emoji"
+                        },
+                        {
+                            "content": "com-ple-ment-ed by a look at some revealing ",
+                            "size": "regular"
+                        },
+                        {
+                            "content": "s-tatis-tic-s",
+                            "size": "bold"
+                        },
+                        {
+                            "content": " about in-di-vid-u-als with dis-abil-i-ties.",
+                            "size": "regular"
+                        }
+                    ],
+                    "sentence_end": 139,
+                    "sentence_start": 114
+                },
+                {
+                    "sentence": [
+                        {
+                            "content": "🔉",
+                            "size": "emoji"
+                        },
+                        {
+                            "content": "Next,",
+                            "size": "regular"
+                        }
+                    ],
+                    "sentence_end": 143,
+                    "sentence_start": 139
+                },
+                {
+                    "sentence": [
+                        {
+                            "content": "🔉",
+                            "size": "emoji"
+                        },
+                        {
+                            "content": "we will broaden our per-spec-tive to consider the over-ar-ch-ing scenario of ",
+                            "size": "regular"
+                        },
+                        {
+                            "content": "access",
+                            "size": "bold"
+                        },
+                        {
+                            "content": " to libraries and library services for those with dis-abil-i-ties.",
+                            "size": "regular"
+                        }
+                    ],
+                    "sentence_end": 181,
+                    "sentence_start": 143
                 },
                 {
                     "sentence": [
@@ -195,12 +217,12 @@
                             "size": "emoji"
                         },
                         {
-                            "content": "Capturing this context,",
+                            "content": "Armed with that context,",
                             "size": "regular"
                         }
                     ],
-                    "sentence_start": 35,
-                    "sentence_end": 36
+                    "sentence_end": 187,
+                    "sentence_start": 181
                 },
                 {
                     "sentence": [
@@ -209,105 +231,76 @@
                             "size": "emoji"
                         },
                         {
-                            "content": "a videotaped exploration on ",
+                            "content": "a videotape pre-sen-ta-tion and in-depth dis-cus-sion of ",
                             "size": "regular"
                         },
                         {
-                            "content": "adaptive technology",
+                            "content": "adaptive tech-nol-o-gy",
                             "size": "bold"
                         },
                         {
-                            "content": " for computers will steer our discussion towards electronic resources in libraries.",
+                            "content": " for computers will shift our attention towards elec-tron-ic resources within li-braries.",
                             "size": "regular"
                         }
                     ],
-                    "sentence_start": 36,
-                    "sentence_end": 43
+                    "sentence_end": 229,
+                    "sentence_start": 187
+                }
+            ]
+        },
+        {
+            "page_end": 300,
+            "page_index": 2,
+            "page_start": 233,
+            "sentences": [
+                {
+                    "sentence": [
+                        {
+                            "content": "🚊",
+                            "size": "emoji"
+                        },
+                        {
+                            "content": "Con-clud-ing our program,",
+                            "size": "regular"
+                        }
+                    ],
+                    "sentence_end": 244,
+                    "sentence_start": 233
                 },
                 {
                     "sentence": [
                         {
-                            "content": "\ud83d\udd09",
+                            "content": "🚊",
                             "size": "emoji"
                         },
                         {
-                            "content": "As we head towards the conclusion of our program,",
-                            "size": "regular"
-                        }
-                    ],
-                    "sentence_start": 43,
-                    "sentence_end": 46
-                },
-                {
-                    "sentence": [
-                        {
-                            "content": "\ud83d\udd09",
-                            "size": "emoji"
-                        },
-                        {
-                            "content": "the latter segment will encompass the secondary ",
+                            "content": "the last segment will feature a second videotape pre-sen-ta-tion and an in-sight-ful dis-cus-sion on the ",
                             "size": "regular"
                         },
                         {
-                            "content": "videotape presentation",
+                            "content": "u-ni-ver-sal design",
                             "size": "bold"
                         },
                         {
-                            "content": ".",
+                            "content": " of elec-tron-ic re-sources,",
                             "size": "regular"
                         }
                     ],
-                    "sentence_start": 46,
-                    "sentence_end": 50
+                    "sentence_end": 281,
+                    "sentence_start": 244
                 },
                 {
                     "sentence": [
                         {
-                            "content": "\ud83d\udd09",
+                            "content": "🚊",
                             "size": "emoji"
                         },
                         {
-                            "content": "Here,",
-                            "size": "regular"
-                        }
-                    ],
-                    "sentence_start": 50,
-                    "sentence_end": 51
-                },
-                {
-                    "sentence": [
-                        {
-                            "content": "\ud83d\udd09",
-                            "size": "emoji"
-                        },
-                        {
-                            "content": "we'll engage in a spirited discourse on the ",
+                            "content": "specif-i-cal-ly applied to the de-vel-op-ment of ",
                             "size": "regular"
                         },
                         {
-                            "content": "universal design",
-                            "size": "bold"
-                        },
-                        {
-                            "content": " of electronic resources,",
-                            "size": "regular"
-                        }
-                    ],
-                    "sentence_start": 51,
-                    "sentence_end": 56
-                },
-                {
-                    "sentence": [
-                        {
-                            "content": "\ud83d\udd09",
-                            "size": "emoji"
-                        },
-                        {
-                            "content": "more specifically as applied in the ",
-                            "size": "regular"
-                        },
-                        {
-                            "content": "development of World Wide Web pages",
+                            "content": "World Wide Web pages",
                             "size": "bold"
                         },
                         {
@@ -315,8 +308,8 @@
                             "size": "regular"
                         }
                     ],
-                    "sentence_start": 56,
-                    "sentence_end": 60
+                    "sentence_end": 300,
+                    "sentence_start": 281
                 }
             ]
         }
