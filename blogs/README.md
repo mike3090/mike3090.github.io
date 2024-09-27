@@ -1,4 +1,4 @@
-# mike3090.github.io
+# mike3090.github.io/blogs
 As the name itself describes!
 
 Before using [Hugo](https://gohugo.io/), the `html` file writing by my own looks like this:  
