@@ -12,19 +12,18 @@ A GitHub Pages (Jekyll) template for personal academic website. Click [here](htt
 
 ## User Community
 
-[:star:](https://luost.me/)
-[:star:](https://cch1999.github.io/)
-[:star:](https://kyrrego.github.io/)
-[:star:](https://ced3-han.github.io/)
-[:star:](https://lihengchen.com/)
-[:star:](https://hpwang-whu.github.io/)
-[:star:](https://zhang-yingyi.github.io/)
-[:star:](https://wby24.github.io/)
-[:star:](https://pengfeixu.com/)
-[:star:](https://boqiuphd.github.io/)
+[⭐️](https://luost.me/)
+[⭐️](https://cch1999.github.io/)
+[⭐️](https://kyrrego.github.io/)
+[⭐️](https://ced3-han.github.io/)
+[⭐️](https://lihengchen.com/)
+[⭐️](https://hpwang-whu.github.io/)
+[⭐️](https://zhang-yingyi.github.io/)
+[⭐️](https://wby24.github.io/)
+[⭐️](https://pengfeixu.com/)
+[⭐️](https://boqiuphd.github.io/)
 
-:hugs: Feel free to tell us if you are using this template for your website by creating an issue [here](https://github.com/luost26/academic-homepage/issues/new?assignees=&labels=&projects=&template=user-report.md&title=I+am+using+this+template%21).
-
+🤗 Feel free to tell us if you are using this template for your website by creating an issue [here](https://github.com/luost26/academic-homepage/issues/new?assignees=&labels=&projects=&template=user-report.md&title=I+am+using+this+template%21).
 
 ## Getting Started
 
@@ -36,21 +35,17 @@ A GitHub Pages (Jekyll) template for personal academic website. Click [here](htt
 ### Deploying to GitHub Pages
 
 2. Go to the repository settings and enable GitHub Pages. Detailed instructions can be found [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site).
-
 3. Navigate to your created website, and follow the instructions displayed on the homepage (if any) to finalize the setup.
 
 ### Running Locally
 
 2. Follow the **step 1** and **step 2** of the instruction [here](https://jekyllrb.com/docs/) to install prerequisites and jekyll.
-
 3. Clone your forked repository to your local machine.
-
 4. Run the following command in the root directory of the repository:
 
    ```bash
    bundle exec jekyll serve
    ```
-
 5. Browse to the displayed URL to see the website.
 
 ### Build
@@ -64,9 +59,11 @@ jekyll build
 Original Versions:
 
 # mike3090.github.io
+
 As the name itself describes!
 
-Before using [Hugo](https://gohugo.io/), the `html` file writing by my own looks like this:  
+Before using [Hugo](https://gohugo.io/), the `html` file writing by my own looks like this:
+
 ```html
 <!DOCTYPE html>
 <html>
